@@ -5,7 +5,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://mountain-web-studio.pages.dev",
+  site: "https://mountain-web-studio2.pages.dev",
   vite: {
     plugins: [tailwindcss()],
   },
